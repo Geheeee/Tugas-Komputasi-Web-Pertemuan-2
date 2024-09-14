@@ -1,0 +1,79 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(233, 27, 27);
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav li a {
+  display: block;
+  color: aliceblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.gambar1 img {
+  position: absolute;
+  top: 1px;
+}
+
+.gambar2 img {
+  position: absolute;
+  top: 1px;
+  right: 8px;
+}
+
+section {
+  padding: 20px;
+  clear: both;
+  overflow: hidden;
+}
+
+.logogooglemicrosoft {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(233, 27, 27);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+img {
+  height: auto;
+}
+
+a:hover {
+  background-color: #f0c4c4;
+  border-radius: 10px;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-style1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
